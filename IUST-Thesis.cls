@@ -360,7 +360,7 @@ $\Box$ بهره‌برداری از این پایان‌نامه تا تاریخ
 \newpage\clearpage
 \thispagestyle{empty}
 \vskip 15mm
-{\noindent\bfseries Abstract:}
+{\noindent\bfseries }
 \vspace{5mm}
 \par
 \noindent
@@ -368,7 +368,7 @@ $\Box$ بهره‌برداری از این پایان‌نامه تا تاریخ
 \vspace{8mm}
 \par
 \noindent
-\textbf{Keywords:} 
+\textbf{} 
 \@latinkeywords
 
 \begin{titlepage}
